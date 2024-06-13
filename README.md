@@ -6,7 +6,9 @@ Greedy with non-optimistic initial values.
 Epsilon-greedy with various epsilon values.
 Optimistic initial values with a greedy approach.
 Gradient bandit algorithm with different learning rates.
-Requirements
+# Requirements
 Python 3.x
+
 NumPy
+
 Matplotlib
