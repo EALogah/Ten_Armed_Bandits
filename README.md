@@ -73,7 +73,7 @@ Seaborn
 Clone the repository and install the required packages:
 
 # Usage
-Run the main script to execute the bandit algorithms and generate the plots:
+Run the bandits.py and non_stationary.py scripts to execute the bandit algorithms and generate the plots:
 
 # Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
